@@ -1,0 +1,13 @@
+DeckOfAnyThings
+===============
+
+rails plugin for implementing rich deck behavior usable for games, banner rotation, flash cards, and possibly wizards in a future release
+
+
+Example
+=======
+
+Example goes here.
+
+
+Copyright (c) 2008 [Matt Overstreet], released under the MIT license
